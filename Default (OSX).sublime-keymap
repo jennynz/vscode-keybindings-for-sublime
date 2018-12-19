@@ -2,8 +2,8 @@
 	{ "keys": ["ctrl+super+g"], "command": "find_all_under" },
 	{ "keys": ["super+f2"], "command": "find_all_under" },
 	{ "keys": ["super+alt+l"], "command": "split_selection_into_lines" },
-    { "keys": ["super+b"], "command": "toggle_side_bar" },
-    { "keys": ["super+shift+b"], "command": "build" },
+	{ "keys": ["super+b"], "command": "toggle_side_bar" },
+	{ "keys": ["super+shift+b"], "command": "build" },
 	{ "keys": ["alt+up"], "command": "swap_line_up" },
 	{ "keys": ["alt+down"], "command": "swap_line_down" }
 ]
